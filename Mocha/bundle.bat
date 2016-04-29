@@ -1,0 +1,1 @@
+browserify math.js tests\math_expect_tests.js tests\math_should_tests.js -o bundle.js
